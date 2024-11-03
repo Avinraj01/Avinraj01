@@ -1,6 +1,8 @@
-<h1 align="center">What's Upp Dev My Self Avin Raj</h1>
+[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://Avinraj01.io)
+
+<h1 align="center">What's Upp Dev..My Self Avin Raj</h1>
 <h3 align="center">A fervent frontend developer from India, crafting stunning web experiences with flair and creativity.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=pinterest%20dribble.com%20animation%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F8b%2F35%2Ffe%2F8b35fef55fba1a201c9c7a11d3ec3d64.gif&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fanimation--832040099882468699%2F&docid=Gcs__WLwTpQLUM&tbnid=NzefxaVb3PPQWM&vet=12ahUKEwiRntuOm8GJAxX0TWwGHZyRKo0QM3oECDMQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiRntuOm8GJAxX0TWwGHZyRKo0QM3oECDMQAA">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinraj01&label=Profile%20views&color=0e75b6&style=flat" alt="avinraj01" /> </p>
 
