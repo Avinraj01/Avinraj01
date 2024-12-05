@@ -22,6 +22,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/avin-raj-203a762a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avin-raj-203a762a2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avin-raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avin-raj_" height="30" width="40" /></a>
+<a href="https://discord.gg/cxPVXXvK" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Join My Community on Discord:</h3>
+<p align="left">
+<a href="https://discord.gg/cxPVXXvK" target="blank"><img src="https://img.shields.io/badge/Discord-Join%20My%20Community-5865F2?logo=discord&logoColor=white" alt="discord invite link"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinraj01&show_icons=true&locale=en" alt="avinraj01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinraj01&" alt="avinraj01" /></p>
+
