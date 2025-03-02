@@ -2,10 +2,17 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=-CIAO-FOLKS+My_Self_AVIN_RAJ;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=avinraj01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>  
+
 <h3 align="center">A fervent frontend developer from India, crafting stunning web experiences with flair and creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinraj01&label=Profile%20views&color=0e75b6&style=flat" alt="avinraj01" /> </p>
+
+
+
 
 - 🔭 I’m currently honing skills in **DSA with C++ while mastering CSS and JavaScript for captivating web experiences.**
 
