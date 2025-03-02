@@ -1,6 +1,7 @@
  [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://Avinraj01.io)
 
 <h1 align="center">What's Upp Dev..My Self Avin Raj</h1>
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 <h3 align="center">A fervent frontend developer from India, crafting stunning web experiences with flair and creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
@@ -42,10 +43,11 @@
   </h1>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinraj01&show_icons=true&locale=en&layout=compact" alt="avinraj01" /></p>
+<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinraj01&show_icons=true&locale=en&layout=compact" alt="avinraj01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinraj01&show_icons=true&locale=en" alt="avinraj01" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinraj01&" alt="avinraj01" /></p>
 
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+
