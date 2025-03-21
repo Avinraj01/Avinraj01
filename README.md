@@ -31,6 +31,8 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/avin-raj-203a762a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avin-raj-203a762a2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avin-raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avin-raj_" height="30" width="40" /></a>
 <a href="https://discord.gg/cxPVXXvK" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="40" /></a>
+ <a href="https://www.geeksforgeeks.org/user/avinyaduv0en8/" target="blank"><img align="center" src="https://camo.githubusercontent.com/8be6191bd1b6c09c96035f0cee4b26ac94d980eee476722d3aa8c5915f6af8e8/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f63646e2d75706c6f6164732f32303139303731303130323233342f646f776e6c6f6164332e706e67" alt="avin-raj_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Join My Community on Discord:</h3>
