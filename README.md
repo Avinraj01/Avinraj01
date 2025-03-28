@@ -8,7 +8,7 @@
 </p>  
 
 <h3 align="center">A fervent frontend developer from India, crafting stunning web experiences with flair and creativity.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AP1GczO8VhEvasK4l81AogOxrMzs63VnQ8DBVOv77Hz7kKypnssxESZZSz7xm8U5zOFisYmWuVvtCRELnX5uBeGMEPPFNR8tyyruaoDW2nPvbFA5jzDVJ84r9BlvIxfk57clWzI2_DdMuK7mNDHTFOWMW9pe=w551-h827-s-no-gm?authuser=0">
 
 
 
