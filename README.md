@@ -59,4 +59,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinraj01&" alt="avinraj01" /></p>
 
-
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Avinraj01&amp;theme=onedark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+<h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
+<p><img src="https://github-contributor-stats.vercel.app/api?username=Avinraj01&amp;limit=5&amp;theme=tokyonight&amp;combine_all_yearly_contributions=true" alt=""></p>
+<h3 id="️-random-dev-quote">✍️ Random Dev Quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt=""></p>
+<hr>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Avinraj01&amp;icon=2&amp;color=4" alt=""></a></p>
+<hr>
+<p>Credit: <a href="https://github.com/Avinraj01">Aneal07</a></p>
+<p>Last Edited on: 18/11/2023</p> 
