@@ -571,12 +571,24 @@ When you click on a link it will submit a new issue with the desired move, creat
 
 
 
-
-
+  
+<!--✍️ Random Quote-->
 <h3 id="️-random-dev-quote">✍️ Random Dev Quote</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt=""></p>
-<hr>
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Avinraj01&amp;icon=2&amp;color=4" alt=""></a></p>
-<hr>
+
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+</p></h4><h4 align="left">
+</h4>
+<p>╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀</p>
+<h4>
+</h4><h4 align="left">  
+<p>╚═════ &nbsp;𝐈𝐓’𝐒 <a href="https://github.com/settings/appearance#gh-dark-mode-only">𝐃𝐀𝐑𝐊⚫</a><a href="https://github.com/settings/appearance#gh-light-mode-only">𝐁𝐑𝐈𝐆𝐇𝐓⚪</a> 𝐈𝐍 𝐇𝐄𝐑𝐄…</p>
+</h4><h4>
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+
+
 <p>Credit: <a href="https://github.com/Avinraj01">Avinraj01</a></p>
 <p>Last Edited on: 30/03/2025</p> 
