@@ -27,14 +27,20 @@
  
  [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://Avinraj01.io)
 
+ 
+<!--🖼️OCTOCAT-->
+</p><p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=-CIAO+FOLKS+My+Self+AVIN+RAJ;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--🖼️OCTOCAT-->
-</p><p align="right">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px"><a align="center" href="#-my-github-stats--"><img align="left" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 
+<!--snakegif-->
+<img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
+
+<!--profileviews-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=avinraj01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>  
@@ -84,9 +90,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
-<!--🖼️OCTOCAT-->
-</p><p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
 
 
 
