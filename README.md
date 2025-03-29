@@ -1,27 +1,4 @@
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -114,6 +91,488 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=Avinraj01&amp;theme=onedark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=Avinraj01&amp;limit=5&amp;theme=tokyonight&amp;combine_all_yearly_contributions=true" alt=""></p>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
+</p><p align="center">
+<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
+<!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
+ </p></h4><h4 align="center">
+<table>
+  <tbody><tr>
+  </tr>
+  <tr>
+    <td><h5 align="center"><details>
+  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></summary><p>
+</p><h4 align="left">
+<p>ANYONE can take a turn on the board<br>
+<i>Make your move !!. It’s <!-- BEGIN TURN -->white(clear)<!-- END TURN --> to play(instructions beneath)</i></p>
+<!-- BEGIN CHESS BOARD -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th align="center">A</th><th align="center">B</th><th align="center">C</th><th align="center">D</th><th align="center">E</th><th align="center">F</th><th align="center">G</th><th align="center">H</th><th align="center"></th></tr></thead><tbody><tr><td><strong>8</strong></td><td align="center"><img src="img/black/rook.png" width="50px"></td><td align="center"><img src="img/black/knight.png" width="50px"></td><td align="center"><img src="img/black/bishop.png" width="50px"></td><td align="center"><img src="img/black/queen.png" width="50px"></td><td align="center"><img src="img/black/king.png" width="50px"></td><td align="center"><img src="img/black/bishop.png" width="50px"></td><td align="center"><img src="img/black/knight.png" width="50px"></td><td align="center"><img src="img/black/rook.png" width="50px"></td><td align="center"><strong>8</strong></td></tr><tr><td><strong>7</strong></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><strong>7</strong></td></tr><tr><td><strong>6</strong></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><strong>6</strong></td></tr><tr><td><strong>5</strong></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/black/pawn.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><strong>5</strong></td></tr><tr><td><strong>4</strong></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><strong>4</strong></td></tr><tr><td><strong>3</strong></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><strong>3</strong></td></tr><tr><td><strong>2</strong></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><img src="img/white/pawn.png" width="50px"></td><td align="center"><strong>2</strong></td></tr><tr><td><strong>1</strong></td><td align="center"><img src="img/white/rook.png" width="50px"></td><td align="center"><img src="img/white/knight.png" width="50px"></td><td align="center"><img src="img/white/bishop.png" width="50px"></td><td align="center"><img src="img/white/queen.png" width="50px"></td><td align="center"><img src="img/white/king.png" width="50px"></td><td align="center"><img src="img/white/bishop.png" width="50px"></td><td align="center"><img src="img/white/knight.png" width="50px"></td><td align="center"><img src="img/white/rook.png" width="50px"></td><td align="center"><strong>1</strong></td></tr><tr><td></td><td align="center"><strong>A</strong></td><td align="center"><strong>B</strong></td><td align="center"><strong>C</strong></td><td align="center"><strong>D</strong></td><td align="center"><strong>E</strong></td><td align="center"><strong>F</strong></td><td align="center"><strong>G</strong></td><td align="center"><strong>H</strong></td><td align="center"></td></tr></tbody></table>
+<!-- END CHESS BOARD -->
+<p>To move a piece to a postion</p>
+<p><strong><em>Choose one from the following table</em></strong> :</p>
+<!-- BEGIN MOVES LIST -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">FROM</th><th align="left">TO (Just click a link!)</th></tr></thead><tbody><tr><td align="center"><strong>A1</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+A1+to+A2">A2</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+A1+to+A3">A3</a></td></tr><tr><td align="center"><strong>A4</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+A4+to+A5">A5</a></td></tr><tr><td align="center"><strong>B1</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+B1+to+A3">A3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+B1+to+C3">C3</a></td></tr><tr><td align="center"><strong>B2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+B2+to+B3">B3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+B2+to+B4">B4</a></td></tr><tr><td align="center"><strong>C2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+C2+to+C3">C3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+C2+to+C4">C4</a></td></tr><tr><td align="center"><strong>D2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+D2+to+D3">D3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+D2+to+D4">D4</a></td></tr><tr><td align="center"><strong>E2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+E2+to+E3">E3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+E2+to+E4">E4</a></td></tr><tr><td align="center"><strong>F2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+F2+to+F3">F3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+F2+to+F4">F4</a></td></tr><tr><td align="center"><strong>G1</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+G1+to+F3">F3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+G1+to+H3">H3</a></td></tr><tr><td align="center"><strong>G2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+G2+to+G3">G3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+G2+to+G4">G4</a></td></tr><tr><td align="center"><strong>H2</strong></td><td align="left"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+H2+to+H3">H3</a>, <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Chess%3A+Move+H2+to+H4">H4</a></td></tr></tbody></table>
+<!-- END MOVES LIST -->
+<p>Having fun? Ask a friend to play next move to get the next turn !</p>
+<details>
+  <summary>How it works</summary>
+When you click on a link it will submit a new issue with the desired move, create the issue and a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+</details>
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">Move</th><th align="left">Author</th></tr></thead><tbody><tr><td align="center"><code>C7</code> to <code>C5</code></td><td align="left"><a href="https://github.com/trinib"> @trinib</a></td></tr><tr><td align="center"><code>A2</code> to <code>A4</code></td><td align="left"><a href="https://github.com/teotoniojr"> @teotoniojr</a></td></tr><tr><td align="center"><code>Start game</code></td><td align="left"><a href="https://github.com/trinib"> @trinib</a></td></tr></tbody></table>
+<!-- END LAST MOVES -->
+</details>
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">Total moves</th><th align="left">User</th></tr></thead><tbody><tr><td align="center">19</td><td align="left"><a href="https://github.com/trinib">@trinib</a></td></tr><tr><td align="center">14</td><td align="left"><a href="https://github.com/JayantGoel001">@JayantGoel001</a></td></tr><tr><td align="center">3</td><td align="left"><a href="https://github.com/Sabyasachi-Seal">@Sabyasachi-Seal</a></td></tr><tr><td align="center">1</td><td align="left"><a href="https://github.com/teotoniojr">@teotoniojr</a></td></tr></tbody></table>
+<!-- END TOP MOVES -->
+</details>
+</h4></details></h5><h5 align="center">
+  </h5></td></tr>
+ </tbody></table>
+ 
+ <!--CONNECTDOT🔴🟡 / 🌐WEBSITE: https://github.com/bloedboemmel/bloedboemmel --> 
+ </h4><h4 align="center">
+<table>
+  <tbody><tr>
+  </tr>
+  <tr>
+    <td><h5 align="center"><details>
+  <summary><h2>&nbsp;&nbsp;<img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="40px" height="40px">&nbsp;Connect 4 Dots&nbsp;<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
+</p><h4 align="left">
+<p>Here you can play Connect4. Just click a number under the grid to move. It’s <!-- BEGIN TURN2 -->red<!-- END TURN2 --> turn.</p>
+<!-- BEGIN CONNECT4 BOARD -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th align="center">1</th><th align="center">2</th><th align="center">3</th><th align="center">4</th><th align="center">5</th><th align="center">6</th><th align="center">7</th><th align="center"></th></tr></thead><tbody><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"></td></tr><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"></td></tr><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"></td></tr><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/red.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"></td></tr><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/red.png" width="50px"></td><td align="center"><img src="img/red.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"></td></tr><tr><td>---</td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/blank.png" width="50px"></td><td align="center"><img src="img/yellow.png" width="50px"></td><td align="center"><img src="img/yellow.png" width="50px"></td><td align="center"><img src="img/yellow.png" width="50px"></td><td align="center"><img src="img/yellow.png" width="50px"></td><td align="center"></td></tr><tr><td></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+1">1</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+2">2</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+3">3</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+4">4</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+5">5</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+6">6</a></td><td align="center"><a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+Put+7">7</a></td><td align="center"></td></tr></tbody></table>
+<!-- END CONNECT4 BOARD -->
+<!-- BEGIN MOVES LIST2 -->
+<p><strong>GAME IS OVER!</strong>  <a href="https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&amp;title=Connect4%3A+start+new+game">Click here</a> | to start a new game :D</p>
+<!-- END MOVES LIST2 -->
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES2 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">Move</th><th align="left">Author</th></tr></thead><tbody><tr><td align="center"><code>7</code></td><td align="left"><a href="https://github.com/oxoovo"> @oxoovo</a></td></tr><tr><td align="center"><code>4</code></td><td align="left"><a href="https://github.com/SantosPauloRF"> @SantosPauloRF</a></td></tr><tr><td align="center"><code>6</code></td><td align="left"><a href="https://github.com/trinib"> @trinib</a></td></tr><tr><td align="center"><code>5</code></td><td align="left"><a href="https://github.com/oxoovo"> @oxoovo</a></td></tr><tr><td align="center"><code>5</code></td><td align="left"><a href="https://github.com/oxoovo"> @oxoovo</a></td></tr></tbody></table>
+<!-- END LAST MOVES2 -->
+</details>
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES2 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">Total moves</th><th align="left">User</th></tr></thead><tbody><tr><td align="center">6</td><td align="left"><a href="https://github.com/trinib">@trinib</a></td></tr><tr><td align="center">5</td><td align="left"><a href="https://github.com/oxoovo">@oxoovo</a></td></tr><tr><td align="center">2</td><td align="left"><a href="https://github.com/JayantGoel001">@JayantGoel001</a></td></tr><tr><td align="center">1</td><td align="left"><a href="https://github.com/mauro-balades">@mauro-balades</a></td></tr><tr><td align="center">1</td><td align="left"><a href="https://github.com/SantosPauloRF">@SantosPauloRF</a></td></tr></tbody></table>
+<!-- END TOP MOVES2 -->
+</details>
+</h4></details>
+</h5><h5 align="center">
+  </h5></td></tr>
+ </tbody></table>
+</h4><h1 id=""></h1>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
 <h3 id="️-random-dev-quote">✍️ Random Dev Quote</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt=""></p>
 <hr>
