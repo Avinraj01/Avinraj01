@@ -9,7 +9,7 @@
 </p><p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=-CIAO+FOLKS+My+Self+AVIN+RAJ;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=25&color=F758D4&background=FFFFFF00&lines=-CIAO+FOLKS+My+Self+AVIN+RAJ;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
