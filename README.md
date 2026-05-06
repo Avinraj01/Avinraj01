@@ -140,14 +140,272 @@
 
 <div align="center">
 
-| 🚀 Project | 💡 Description |
-|---|---|
-| 🧠 Grammar Scoring Engine | ML-powered voice grammar scoring using Whisper + TF-IDF + Random Forest |
-| 📊 SEO Tag Analyzer | Real-time SEO analytics dashboard inspired by Ahrefs & SEMrush |
-| ❤️ Heart Disease Prediction | ML model with 87% accuracy using Scikit-learn |
-| 🏫 Campus Shayak | AI-powered multilingual academic workflow platform |
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI%2FML+Projects;Enterprise+AI+Systems;Development+%26+Automation;Data+Science+%26+Analytics" />
 
 </div>
+
+---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+# 🤖 AI / ML Projects
+
+---
+
+## 🧠 [NeuroReel AI](https://github.com/Avinraj01/neuroreel-ai)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Avinraj01/neuroreel-ai/main/assets/neuroreel.gif" width="100%"/>
+
+</div>
+
+> AI-powered Hands-Free YouTube Shorts Controller using Computer Vision, OCR & Emotion Detection.
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/AI-EmotionTracking-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-Tesseract-orange?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/neuroreel-ai">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🎤 [SHL Grammar Scoring Engine](https://github.com/Avinraj01/SHL-Grammar-Scoring-Engine-for-Voice-Samples)
+
+<div align="center">
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPPy0Rofqxbl1kXQIYXXfd3zicZ3cCsDQdIIy9MI_1KNVmtn-qBGuiyBPhNoWA0ZNGOWvKGDPXo7GqS9raf_dhgB0YTDka5y_75QL_-eGfK4i_J1i6sp9tH7feCinyynsvPQmJJXWPCB7d6KRuDKJ55=w800-h350-s-no-gm?authuser=0" width="100%"/>
+
+</div>
+
+> ML-based spoken grammar evaluation system using Whisper + TF-IDF + Random Forest.
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-Whisper-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-RandomForest-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Audio-AI-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/SHL-Grammar-Scoring-Engine-for-Voice-Samples">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## ❤️ [Heart Disease Detection](https://github.com/Avinraj01/heart-disease-detection)
+
+> Predictive healthcare ML system using Logistic Regression, SVM & Random Forest.
+
+<br>
+
+<img src="https://img.shields.io/badge/Healthcare-AI-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-ScikitLearn-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/heart-disease-detection">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 📧 [Email Spam Classifier](https://github.com/Avinraj01/Email-Spam-Classifier)
+
+<div align="center">
+
+<img src="https://dataaspirant.com/wp-content/uploads/2020/07/Email-classifier-spacy-python-final.png" width="100%"/>
+
+</div>
+
+> Machine Learning powered spam detection system using NLP & text vectorization.
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-SpamDetection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-ML-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Classifier-purple?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/Email-Spam-Classifier">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+# 🌐 Development & Automation
+
+---
+
+## 🌱 [GitHub Activity Generator](https://github.com/Avinraj01/Github-Activity-Generator)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Avinraj01/Github-Activity-Generator/main/example.gif" width="100%"/>
+
+</div>
+
+> Automated GitHub contribution graph generator with intensity & pattern control.
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-Automation-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Python-CLI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Contribution-Generator-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/Github-Activity-Generator">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🏫 [Campus Management System](https://github.com/Avinraj01/Campus-Management-System)
+
+> AI-powered multilingual campus management platform with FastAPI + React + MongoDB.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-success?style=for-the-badge&logo=mongodb"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/Campus-Management-System">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 📊 [SEO Tag Analyzer](https://github.com/Avinraj01/SEO-TAG-ANALYZER/tree/main)
+
+<div align="center">
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczNhFEE4NglgMIFiUILznq6GNYaEvrNOl2KlZiFULQSHU2ug1okum8p8s2xa1PFL55R1-HHrcLe7JlwikrpVvtHwhCSC_c2iZ1bUgdDnGlZOEL16QpaB8GYE8V5cBkiHYGYyVjzbl9YYUuqQF46OMhL5=w640-h288-s-no-gm?authuser=0" width="100%"/>
+
+</div>
+
+> Real-time SEO analytics platform inspired by Ahrefs & SEMrush.
+
+<br>
+
+<img src="https://img.shields.io/badge/SEO-Analytics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-WebApp-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind-UI-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/SEO-TAG-ANALYZER/tree/main">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🎥 [FaceStream Live Video Chat](https://github.com/Avinraj01/FACESTREAM-LIVE_VIDEO_CHATTING/tree/main)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Avinraj01/FACESTREAM-LIVE_VIDEO_CHATTING/main/video-chat.png" width="100%"/>
+
+</div>
+
+> Real-time WebRTC based group video chatting platform using Socket.io & PeerJS.
+
+<br>
+
+<img src="https://img.shields.io/badge/WebRTC-VideoChat-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.io-Realtime-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NodeJS-Backend-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Avinraj01/FACESTREAM-LIVE_VIDEO_CHATTING/tree/main">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+# 📊 Data Science & Analytics
+
+---
+
+## 🧠 PulseIQ *(Coming Soon)*
+
+> Enterprise behavioral analytics engine that detects anomalies, predicts churn & surfaces decision intelligence from streaming event data.
+
+<br>
+
+<img src="https://img.shields.io/badge/IsolationForest-AnomalyDetection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-Autoencoder-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-ChurnPrediction-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-StreamingData-black?style=for-the-badge"/>
+
+<br><br>
+
+### 🚀 Key Highlights
+
+- Real-time anomaly detection
+- Behavioral intelligence engine
+- Drift detection & explainability
+- Enterprise-scale analytics
+- Predictive churn modeling
+
+---
+
+## 🤖 ContextOS *(Coming Soon)*
+
+> Enterprise Knowledge Operations Platform powered by Agentic RAG, LLMs & multi-modal retrieval systems.
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-AgenticAI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-EnterpriseAI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ColBERT-ReRanking-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAGAS-Evaluation-red?style=for-the-badge"/>
+
+<br><br>
+
+### 🚀 Key Highlights
+
+- Advanced RAG pipelines
+- Hallucination detection
+- Multi-modal embeddings
+- LangGraph agent workflows
+- Enterprise knowledge reasoning
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+
+### ⚡ Building Production-Grade AI Systems
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
