@@ -464,33 +464,7 @@
 
 </div>
 
----
-
-# 🧠 Current Focus
-
-```python
-class AvinRaj:
-
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.learning = [
-            "Generative AI",
-            "MLOps",
-            "Deep Learning",
-            "Full Stack Development"
-        ]
-
-        self.interests = [
-            "Computer Vision",
-            "NLP",
-            "Hackathons",
-            "Open Source"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile 🚀")
-````
-
+ 
 ---
 
 # 🏅 Achievements
